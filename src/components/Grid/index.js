@@ -1,4 +1,3 @@
-import  React,{useState,useEffect}  from "react";
 import GridItem from "../GridItem";
 import * as C from "./styles";
 

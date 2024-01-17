@@ -19,12 +19,7 @@ const Grid = ({itens,setItens}) =>{
                         Tipo
                         </C.Th>
                         <C.Th width= {10}></C.Th>
-                        <C.Th width={10} alignCenter style={{paddingRight: "20px"}}>
-                            Hector
-                        </C.Th>
-                        <C.Th width={40} alignCenter style={{paddingLeft: "20px"}}>
-                            Luis
-                        </C.Th>
+                       
                 </C.Tr>
             </C.Thead>
             <C.Tbory>
